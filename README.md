@@ -51,17 +51,12 @@ Step-by-step instructions for setting up the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo-url.git
+   [git clone https://github.com/your-repo-url.git](https://github.com/thebadsektor/se2024-colderia-elazegui.git)
    ```
 2. **Install dependencies:**
 	- If using `npm`:
    ```bash
    git clone https://github.com/your-repo-url.git
-   ```
-   - If using `pip` (for Python projects):
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   ```
 3. **Configure environment variables (if any)**: Provide instructions for setting up .env files or any other required configurations.
    ```bash
    git clone https://github.com/your-repo-url.git
