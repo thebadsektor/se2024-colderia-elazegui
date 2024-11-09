@@ -86,7 +86,7 @@ Provide detailed instructions on how to use the project after setup:
 - Databases: [e.g., MySQL, MongoDB, etc.]
 - Screenshots or GIFs showcasing key functionalities (optional).
 
-![UI Placeholder](.forecastie_home.jpg)
+![UI Placeholder](forecastie_home.jpg)
 
 Another Screenshot
 
