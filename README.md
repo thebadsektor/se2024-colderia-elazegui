@@ -83,8 +83,8 @@ Step-by-step instructions for setting up the project locally.
 Provide detailed instructions on how to use the project after setup:
 - How to access the application.
 - Navigate forecastie application on your mobile phone
-
 ![UI Placeholder](forecastie_home.jpg)
+
 - When you open the app, you will see
 - Wind speed
 - Pressure
@@ -99,13 +99,17 @@ Provide detailed instructions on how to use the project after setup:
 - You will see at the menu are
 - Weather map, graphs, detect location, settings, and about
 ![UI Placeholder](forecastie_menu.jpg)
+
 - At the weather map, you will see
 - Clouds page
 ![UI Placeholder](forecastie_clouds.jpg)
+
 - Rain page
-![UI Placeholder](forecastie_rain.jpg)
+![UI Placeholder](forecastie_rain.jpg
+
 - Wind page
 ![UI Placeholder](forecastie_wind.jpg)
+
 - Temperature page
 ![UI Placeholder](forecastie_temp.jpg)
 
