@@ -105,7 +105,7 @@ Provide detailed instructions on how to use the project after setup:
 ![UI Placeholder](forecastie_clouds.jpg)
 
 - Rain page
-![UI Placeholder](forecastie_rain.jpg
+![UI Placeholder](forecastie_rain.jpg)
 
 - Wind page
 ![UI Placeholder](forecastie_wind.jpg)
