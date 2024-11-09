@@ -82,15 +82,32 @@ Step-by-step instructions for setting up the project locally.
 ## Usage Instructions
 Provide detailed instructions on how to use the project after setup:
 - How to access the application.
-- 
-- Databases: [e.g., MySQL, MongoDB, etc.]
-- Screenshots or GIFs showcasing key functionalities (optional).
+- Navigate forecastie application on your mobile phone
 
 ![UI Placeholder](forecastie_home.jpg)
+- When you open the app, you will see
+- Wind speed
+- Pressure
+- Humidity
+- Sunrise time
+- Sunset time
+- and UV index
+- weather for Today, Tomorrow, and the 4 days prior
+![UI Placeholder](forecastie_main.jpg)
 
-Another Screenshot
-
-![UI Placeholder](https://via.placeholder.com/1200x700.png?text=UI+Placeholder)
+- Click 3 dot at do top right corner of the screen
+- You will see at the menu are
+- Weather map, graphs, detect location, settings, and about
+![UI Placeholder](forecastie_menu.jpg)
+- At the weather map, you will see
+- Clouds page
+![UI Placeholder](forecastie_clouds.jpg)
+- Rain page
+![UI Placeholder](forecastie_rain.jpg)
+- Wind page
+![UI Placeholder](forecastie_wind.jpg)
+- Temperature page
+![UI Placeholder](forecastie_temp.jpg)
 
 ## Project Structure
 Explain the structure of the project directory. Example:
